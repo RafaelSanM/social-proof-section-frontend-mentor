@@ -1,0 +1,28 @@
+:root {
+    --Very-Dark-Magenta: hsl(300, 43%, 22%);
+    --Soft-Pink: hsl(333, 80%, 67%);
+    --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+    --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+    --White: hsl(0, 0%, 100%);
+
+    --font-size: 0.9375em;
+    --font-family: "League Spartan", sans-serif;
+
+    --fw-regular: 400;
+    --fw-medium: 500;
+    --fw-bold: 700;
+
+    --size-25: 0.13em;
+    --size-50: 0.25em;
+    --size-100: 0.5em;
+    --size-200: 1em;
+    --size-300: 1.5em;
+    --size-400: 2em;
+    --size-500: ;
+    --size-600: 3em;
+    --size-650: 4em;
+    --size-700: 5em;
+    --size-800: 7em;
+    --size-900: 9em;
+    --size-xl: 10em;
+}
